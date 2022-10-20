@@ -1,0 +1,8 @@
+﻿  MusicPlayer.cpp
+  MusicPlayerState.cpp
+  MusicPlayerTest.cpp
+  PausedState.cpp
+  PlayingState.cpp
+  StoppedState.cpp
+  Generating Code...
+  State Design Pattern.vcxproj -> C:\Users\adamm\Desktop\Design Pattern\State Design Pattern\Debug\State Design Pattern.exe
